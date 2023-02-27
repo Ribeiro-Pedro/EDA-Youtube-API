@@ -3,7 +3,7 @@
 <p>Com o intuito de entender melhor o que faz um vídeo ter sucesso na plataforma foi feita uma análise entre os nove canais de data science mais populares do Youtube. Além disso, o projeto serviu como estudo para a obtenção de dados através do consumo da API do Youtube e para análise de dados com a utilização de Python.</p>
 
 ### Conclusões
-* Neste projeto exploramos os dados dos 9 canais mais populares em língua inglesa sobre Data Science/Data Analysis e obtivemos insights interessantes para quem quer criar um canal no YouTube sobre este nicho ou semelhante:
+Neste projeto exploramos os dados dos 9 canais mais populares em língua inglesa sobre Data Science/Data Analysis e obtivemos insights interessantes para quem quer criar um canal no YouTube sobre este nicho ou semelhante:
 
 * Quanto mais interações (curtidas e comentários) um vídeo tem, maior o número de visualizações proporcionalmente. Vale dizer que o que se percebe é uma correlação, que, diferente de uma relação causalidade, pode ocorrer nos dois sentidos. Com o fator de correção de interações por mil visualizações, percebemos o efeito de aprovação social das interações, os usuários tendem a interagir com conteúdos com alto número de interações, proporcionalmente.
 
@@ -16,8 +16,7 @@
 * Os termos chaves dos comentários são relativamente positivos. Foi interessante notar o alto uso da palavra "please", sugerindo um potencial de conteúdo não explorado.
 
 ### Limitações do projeto
-
-* Os insights obtidos deste projeto devem levar em conta alguns fatores:
+Os insights obtidos deste projeto devem levar em conta alguns fatores:
 
 * O número de vídeos é relativamente pequeno (o dataset tem menos de 4,3 mil registros).
 
